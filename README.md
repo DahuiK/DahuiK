@@ -49,14 +49,15 @@
 ## Frameworks & Libraries
 <div align="center">
 <p>
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white" />
-<img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-EB5E28?logoColor=white" />
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white" />
+    <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-EB5E28?logoColor=white" />
 </p>
 
 ## Tools & Platforms
